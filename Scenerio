@@ -1,0 +1,37 @@
+Example
+Hackers used LinkedIn to grab contact information from employees at Sony and targeted them with an email phishing campaign. They got away with over 100 terabytes of data.
+Suspicious Sender Email Address
+The email may look legitimate but contains a slightly altered domain.
+Example:
+Fake: support-linkedin@mail-security.com
+Real: @linkedin.com
+This difference suggests the message may not be from the real organization.
+2. Suspicious Links or URLs
+Phishing emails often include links that resemble the real website but lead to malicious pages.
+Example:
+Fake link: linkedin-security-update.com
+Real link: linkedin.com
+These fake links are designed to steal login credentials.
+3. Urgent or Threatening Language
+Attackers try to create panic so the victim acts quickly without verifying the message.
+Common phrases include:
+“Your account will be suspended”
+“Immediate verification required”
+“Urgent security alert”
+4. Request for Sensitive Information
+Legitimate companies rarely ask for sensitive information through email. Phishing messages may request:
+-Passwords
+-Bank details
+-Verification codes
+-Personal identification information
+5. Unexpected Attachments
+Some phishing emails contain attachments that may install malware when opened.
+Impact of a Phishing Attack
+1. Financial Loss
+If banking or payment details are stolen, victims may lose money from their accounts.
+2. Unauthorized Account Access
+Attackers may gain control of the victim’s online accounts such as email or social media.
+3. Spread of Further Attacks
+Once attackers control an account, they may send phishing messages to the victim’s contacts.
+4. Damage to Reputation
+If a professional account such as LinkedIn is compromised, it may harm the user’s professional reputation or relationships.
